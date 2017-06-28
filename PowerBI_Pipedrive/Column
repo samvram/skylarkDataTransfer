@@ -1,0 +1,234 @@
+[
+    {
+        "dataType": "Int64",
+        "name": "id"
+    },
+    {
+        "dataType": "Int64",
+        "name": "email_messages_count"
+    },
+    {
+        "dataType": "Int64",
+        "name": "notes_count"
+    },
+    {
+        "dataType": "String",
+        "name": "formatted_value"
+    },
+    {
+        "dataType": "Int64",
+        "name": "value"
+    },
+    {
+        "dataType": "String",
+        "name": "lost_time"
+    },
+    {
+        "dataType": "String",
+        "name": "next_activity_type"
+    },
+    {
+        "dataType": "String",
+        "name": "currency"
+    },
+    {
+        "dataType": "String",
+        "name": "designation"
+    },
+    {
+        "dataType": "Int64",
+        "name": "activities_count"
+    },
+    {
+        "dataType": "String",
+        "name": "last_incoming_mail_time"
+    },
+    {
+        "dataType": "String",
+        "name": "status"
+    },
+    {
+        "dataType": "String",
+        "name": "next_activity_id"
+    },
+    {
+        "dataType": "String",
+        "name": "leadsource"
+    },
+    {
+        "dataType": "Int64",
+        "name": "stage_order_nr"
+    },
+    {
+        "dataType": "String",
+        "name": "rotten_time"
+    },
+    {
+        "dataType": "String",
+        "name": "add_time"
+    },
+    {
+        "dataType": "Int64",
+        "name": "products_count"
+    },
+    {
+        "dataType": "String",
+        "name": "next_activity_note"
+    },
+    {
+        "dataType": "Int64",
+        "name": "undone_activities_count"
+    },
+    {
+        "dataType": "String",
+        "name": "person_name"
+    },
+    {
+        "dataType": "String",
+        "name": "lost_reason"
+    },
+    {
+        "dataType": "Int64",
+        "name": "followers_count"
+    },
+    {
+        "dataType": "String",
+        "name": "creator_user_id"
+    },
+    {
+        "dataType": "String",
+        "name": "update_time"
+    },
+    {
+        "dataType": "String",
+        "name": "next_activity_duration"
+    },
+    {
+        "dataType": "String",
+        "name": "website"
+    },
+    {
+        "dataType": "String",
+        "name": "org_name"
+    },
+    {
+        "dataType": "String",
+        "name": "last_activity_date"
+    },
+    {
+        "dataType": "String",
+        "name": "next_activity_subject"
+    },
+    {
+        "dataType": "String",
+        "name": "deleted"
+    },
+    {
+        "dataType": "String",
+        "name": "active"
+    },
+    {
+        "dataType": "Int64",
+        "name": "stage_id"
+    },
+    {
+        "dataType": "Int64",
+        "name": "participants_count"
+    },
+    {
+        "dataType": "Int64",
+        "name": "pipeline_id"
+    },
+    {
+        "dataType": "Int64",
+        "name": "reference_activities_count"
+    },
+    {
+        "dataType": "String",
+        "name": "won_time"
+    },
+    {
+        "dataType": "Int64",
+        "name": "last_activity_id"
+    },
+    {
+        "dataType": "String",
+        "name": "user_id"
+    },
+    {
+        "dataType": "String",
+        "name": "close_time"
+    },
+    {
+        "dataType": "String",
+        "name": "title"
+    },
+    {
+        "dataType": "String",
+        "name": "cc_email"
+    },
+    {
+        "dataType": "String",
+        "name": "next_activity_time"
+    },
+    {
+        "dataType": "String",
+        "name": "formatted_weighted_value"
+    },
+    {
+        "dataType": "String",
+        "name": "person_hidden"
+    },
+    {
+        "dataType": "Int64",
+        "name": "files_count"
+    },
+    {
+        "dataType": "String",
+        "name": "next_activity_date"
+    },
+    {
+        "dataType": "String",
+        "name": "visible_to"
+    },
+    {
+        "dataType": "String",
+        "name": "first_won_time"
+    },
+    {
+        "dataType": "Int64",
+        "name": "weighted_value"
+    },
+    {
+        "dataType": "String",
+        "name": "owner_name"
+    },
+    {
+        "dataType": "String",
+        "name": "org_hidden"
+    },
+    {
+        "dataType": "String",
+        "name": "stage_change_time"
+    },
+    {
+        "dataType": "String",
+        "name": "person_id"
+    },
+    {
+        "dataType": "String",
+        "name": "expected_close_date"
+    },
+    {
+        "dataType": "String",
+        "name": "org_id"
+    },
+    {
+        "dataType": "String",
+        "name": "last_outgoing_mail_time"
+    },
+    {
+        "dataType": "Int64",
+        "name": "done_activities_count"
+    }
+]
