@@ -1,5 +1,6 @@
-Dependencies:-
+For WINDOWS only( Uses C# and Python to run )
 
+DEPENDENCIES:-
 Python 3.5 installed and added to path
 requests - in python
 python-dateutil
